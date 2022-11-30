@@ -10,9 +10,9 @@
 
 <br>
 
-- I´m M.Sc in Statistics from Colombia 🇴
+- I´m M.Sc in Statistics from Colombia.
 
-- I´m currently working as Data Scientist
+- I´m currently working as Data Scientist.
 
 I have building Mahchine Learning models based on statistical theory for +4 years for different company´s in Colombia and for personal projects.
 
