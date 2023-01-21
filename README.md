@@ -1,4 +1,4 @@
-### Hi there 👋 my name ir Wilmar Sepulveda
+### Hi there 👋 my name is Wilmar Sepulveda
 
 
 <br>
