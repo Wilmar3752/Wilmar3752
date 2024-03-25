@@ -12,7 +12,7 @@
 
 - I´m currently working as Data Scientist.
 
-I have building Mahchine Learning models based on statistical theory for +4 years for different company´s in Colombia and for personal projects.
+I have building Mahchine Learning models based on statistical theory for +5 years for different company´s in Colombia and for personal projects.
 
 
 <br><br>
