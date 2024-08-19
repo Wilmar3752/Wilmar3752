@@ -3,7 +3,7 @@
 <br>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media1.tenor.com/m/Zp9f2I9FpFcAAAAd/anonimous-hacker.gif" width = 50px></picture> **About me**
 
 
 <br>
